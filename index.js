@@ -3,10 +3,10 @@
  * Dependencies
  */
 
-var source = require('function-source');
-var escodegen = require('escodegen');
-var esprima = require('esprima');
-var global = require('global');
+var source = require('yields-function-source');
+var escodegen = require('yields-escodegen');
+var esprima = require('ariya-esprima');
+var global = require('component-global');
 
 /**
  * Export `Instrument`

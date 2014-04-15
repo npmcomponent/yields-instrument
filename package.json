@@ -1,0 +1,17 @@
+{
+  "name": "yields-instrument",
+  "description": "code coverage instrumentation",
+  "version": "0.1.0",
+  "keywords": [
+    "coverage",
+    "instrument"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-function-source": "git://github.com/npmcomponent/yields-function-source.git",
+    "yields-escodegen": "git://github.com/npmcomponent/yields-escodegen.git",
+    "component-global": "git://github.com/npmcomponent/component-global.git",
+    "ariya-esprima": "git://github.com/npmcomponent/ariya-esprima.git"
+  },
+  "license": "MIT"
+}
